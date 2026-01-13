@@ -2,18 +2,17 @@
 name: User Story
 about: User Story
 title: "[UserStory]"
-labels: ''
-assignees: JoseIgnacioTamayo
 
 ---
 
-As a … 
-I need … 
-So that …
+As a {role}
+I need {function}
+So that {benefit}
 
 Assumptions:
 
 Acceptance:
-Given ...
-When ...
-Then ...
+
+Given {context}
+When {actions}
+Then {outcomes}
