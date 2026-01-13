@@ -1,0 +1,19 @@
+---
+name: UserStory
+about: User Story
+title: "[UserStory]"
+labels: ''
+assignees: JoseIgnacioTamayo
+
+---
+
+As a … 
+I need … 
+So that …
+
+Assumptions:
+
+Acceptance:
+Given ...
+When ...
+Then ...
