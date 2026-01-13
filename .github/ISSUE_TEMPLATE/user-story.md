@@ -1,5 +1,5 @@
 ---
-name: UserStory
+name: User Story
 about: User Story
 title: "[UserStory]"
 labels: ''
